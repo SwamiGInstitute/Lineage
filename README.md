@@ -1154,7 +1154,7 @@ table.TableNormal
 
 <p class=Normal1 align=center style='text-align:center'><span class=SpellE><b
 style='mso-bidi-font-weight:normal'><span style='font-size:24.0pt;line-height:
-115%'>SwamiG2</span></b></span><b style='mso-bidi-font-weight:normal'><span
+115%'>SwamiG</span></b></span><b style='mso-bidi-font-weight:normal'><span
 style='font-size:24.0pt;line-height:115%'> Institute<o:p></o:p></span></b></p>
 
 <p class=Normal1 align=center style='text-align:center'><span style='mso-no-proof:
