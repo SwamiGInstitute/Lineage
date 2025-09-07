@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="SwamiG_Lineage6_files/filelist.xml">
-<link rel=Edit-Time-Data href="SwamiG_Lineage6_files/editdata.mso">
+<link rel=File-List href="filelist.xml">
+<link rel=Edit-Time-Data href="editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -36,8 +36,8 @@ w\:* {behavior:url(#default#VML);}
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
 </xml><![endif]-->
-<link rel=themeData href="SwamiG_Lineage6_files/themedata.thmx">
-<link rel=colorSchemeMapping href="SwamiG_Lineage6_files/colorschememapping.xml">
+<link rel=themeData href="themedata.thmx">
+<link rel=colorSchemeMapping href="colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
@@ -1232,7 +1232,7 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="SwamiG_Lineage6_files/image004.jpg" o:title="A person wearing a traditional outfit&#10;&#10;Description automatically generated"/>
+ <v:imagedata src="image004.jpg" o:title="A person wearing a traditional outfit&#10;&#10;Description automatically generated"/>
 </v:shape><v:shape id="_x0000_s1027" type="#_x0000_t202" style='position:absolute;
  margin-left:810.55pt;margin-top:196.3pt;width:118.15pt;height:33.8pt;
  z-index:251672576;mso-position-horizontal-relative:text;
@@ -1268,7 +1268,7 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
   <td height=31></td>
   <td colspan=4></td>
   <td rowspan=4 align=left valign=top><img width=162 height=248
-  src="SwamiG_Lineage6_files/image005.gif"
+  src="image005.gif"
   alt="A person wearing a traditional outfit&#10;&#10;Description automatically generated"
   v:shapes="image6.jpg _x0000_s1027"></td>
  </tr>
@@ -1276,7 +1276,7 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
   <td height=172></td>
   <td></td>
   <td align=left valign=top><img width=169 height=172
-  src="SwamiG_Lineage6_files/image006.jpg"
+  src="image006.jpg"
   alt="A person wearing a feathered hat&#10;&#10;Description automatically generated"
   v:shapes="image5.jpg"></td>
  </tr>
@@ -1343,11 +1343,11 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
    mso-position-vertical:absolute;mso-position-vertical-relative:text;
    mso-width-percent:0;mso-height-percent:0;mso-width-relative:margin;
    mso-height-relative:margin'>
-   <v:imagedata src="SwamiG_Lineage6_files/image007.jpg" o:title="" croptop="3751f"
+   <v:imagedata src="image007.jpg" o:title="" croptop="3751f"
     cropbottom="7061f"/>
    <w:wrap type="through"/>
   </v:shape><![endif]--><![if !vml]><img width=354 height=288
-  src="SwamiG_Lineage6_files/image008.jpg" align=right hspace=12 v:shapes="Picture_x0020_2"><![endif]><b><span
+  src="image008.jpg" align=right hspace=12 v:shapes="Picture_x0020_2"><![endif]><b><span
   style='font-size:9.0pt;color:red'><o:p></o:p></span></b></p>
   <p class=Normal1 align=center style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span style='font-size:9.0pt;
@@ -1472,7 +1472,7 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
  <v:imagedata src="SwamiG_Lineage6_files/image009.png" o:title=""/>
  <w:wrap type="square"/>
 </v:shape><![endif]--><![if !vml]><img width=166 height=254
-src="SwamiG_Lineage6_files/image010.jpg" align=right hspace=12 vspace=12
+src="image010.jpg" align=right hspace=12 vspace=12
 v:shapes="image7.png"><![endif]><span
 style='mso-spacerun:yes'>                                </span></p>
 
@@ -1486,11 +1486,11 @@ style='mso-spacerun:yes'>                           �
  mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text' stroked="t" strokeweight="3pt">
- <v:imagedata src="SwamiG_Lineage6_files/image011.png" o:title="20190107_000043"/>
+ <v:imagedata src="image011.png" o:title="20190107_000043"/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
 absolute;z-index:251631104;left:0px;margin-left:666px;margin-top:45px;
 width:121px;height:167px'><img width=121 height=167
-src="SwamiG_Lineage6_files/image012.jpg" v:shapes="image3.png"></span><![endif]><span
+src="image012.jpg" v:shapes="image3.png"></span><![endif]><span
 style='mso-spacerun:yes'>                        </span>Extending A Legacy<o:p></o:p></p>
 
 <p class=Normal1><o:p>&nbsp;</o:p></p>
