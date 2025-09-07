@@ -11,7 +11,7 @@
   <meta property="og:description" content="Extending Royal Legacy — on the shoulders of enlightened ancestors." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://swamiginstitute.github.io/" />
-  <meta property="og:image" content="image010.jpg" />
+  <meta property="og:image" content="image015.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
 
   <!-- Fonts -->
