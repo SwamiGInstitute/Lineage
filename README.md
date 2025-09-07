@@ -148,7 +148,7 @@
   </main>
 
   <footer>
-    <p>SwamiG Institute — Many Paths • 1 Truth — We Seek No Followers</p>
+    <p>SwamiG Institute — Extending Royal Legacy — On the shoulders of enlightened ancestors</p>
     <p><a href="http://swamiginstitute.com">SwamiGInstitute.com</a> | <a href="https://cash.app/$DrSwami">$DrSwami</a></p>
   </footer>
 </body>
