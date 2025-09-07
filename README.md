@@ -927,10 +927,10 @@ span.GramE
 	line-height:115%;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("SwamiG_Lineage6_files/header.htm") fs;
-	mso-footnote-continuation-separator:url("SwamiG_Lineage6_files/header.htm") fcs;
-	mso-endnote-separator:url("SwamiG_Lineage6_files/header.htm") es;
-	mso-endnote-continuation-separator:url("SwamiG_Lineage6_files/header.htm") ecs;}
+	{mso-footnote-separator:url("header.htm") fs;
+	mso-footnote-continuation-separator:url("header.htm") fcs;
+	mso-endnote-separator:url("header.htm") es;
+	mso-endnote-continuation-separator:url("header.htm") ecs;}
 @page WordSection1
 	{size:8.5in 11.0in;
 	margin:1.0in 1.0in 1.0in 1.0in;
@@ -940,8 +940,8 @@ span.GramE
 	mso-border-alt:thin-thick-thin-medium-gap windowtext 9.0pt;
 	padding:24.0pt 24.0pt 24.0pt 24.0pt;
 	mso-page-numbers:1;
-	mso-header:url("SwamiG_Lineage6_files/header.htm") h1;
-	mso-footer:url("SwamiG_Lineage6_files/header.htm") f1;
+	mso-header:url("header.htm") h1;
+	mso-footer:url("header.htm") f1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -1221,7 +1221,7 @@ style='font-size:30.0pt'>–<span class=SpellE>Karade</span> Lineage<o:p></o:p><
  mso-position-horizontal-relative:text;mso-position-vertical:absolute;
  mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
  mso-width-relative:margin;mso-height-relative:margin'>
- <v:imagedata src="SwamiG_Lineage6_files/image003.jpg" o:title="A person wearing a feathered hat&#10;&#10;Description automatically generated"/>
+ <v:imagedata src="image003.jpg" o:title="A person wearing a feathered hat&#10;&#10;Description automatically generated"/>
 </v:shape><v:shape id="image6.jpg" o:spid="_x0000_s1032" type="#_x0000_t75"
  alt="A person wearing a traditional outfit&#10;&#10;Description automatically generated"
  style='position:absolute;margin-left:808.85pt;margin-top:45.1pt;width:113.8pt;
