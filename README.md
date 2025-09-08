@@ -8,7 +8,7 @@
     <meta name="keywords" content="Orisha,Ilekes,Warriors, Hand of Ifa, Priesthood ,initiations,Divinaiton,4 cowrie,Shango,Heru,Auset,Oshun,Sekert,Olokun,Het Heru,Yemojah,Obarala,Ausar,Amen,prayer,sacrifice">
     <title>SwamiG Institute Lineage</title>
 
-    <div align="center"><font size="7">SwamiG Institute Lineage</font></div>
+    <div align="center"><font size="7">SwamiG Institute 2025</font></div>
     <div align="center"><img src="SwamiG.gif" width="50" height="50" alt="" title="" /></div>
     <div align="center"><font size="6" color="#C037FF">Extending Royal Legacy</font></div>
     <div align="center"><h3>"...on the shoulders of enlightened ancestors..."</h3></div>
@@ -21,7 +21,7 @@
     <style type="text/css">
       body {
         color:#000000;
-        background-color:#FFFFFF;
+        background-color:#000000;
         background-image:url('Background Image');
         background-repeat:no-repeat;
       }
