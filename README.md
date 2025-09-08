@@ -141,6 +141,10 @@
    	<p> Extending Royal Legacy</p>
     <p>...on the shoulders of enlightened ancestors...</p>
   </div></div>
-
+  <br>
+	<br>
+	<br>
+	<br>
+<div align="right"><font size="-1">	<font color="#14FF9f">This page is supported by Tehuti(+)Hetep Edi Meji</font></font></div>
 </body>
 </html>
