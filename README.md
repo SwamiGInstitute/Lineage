@@ -129,6 +129,10 @@
           <span style="color:#00FF00;">5) Speaking words of power <u>Warriors</u> (Sekert)</span><br>
           <span style="color:#00FF00;">6) Transformational Devotion <u>Hand of Ifa</u> (Auset)</span><br>
         </div>
+      </td> <td style="border:1px solid #ffffff;"></td>
+      <td style="border:1px solid #ffffff;"></td>
+      <td style="border:1px solid #ffffff;">
+        <img src="SGI_LineageWeb/BeardedSwamiG.gif" width="228" height="243" alt="" title="" />
       </td>
     </tr>
   </table>
