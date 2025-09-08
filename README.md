@@ -10,7 +10,7 @@
     <title>SwamiG Institute Template</title>
 
     <div align="center"><font size="7">SwamiG Institute Lineage</font></div>
-    <div align="center"><img src="SGI_LineageWeb/SwamiG.gif" width="50" height="50" alt="" title="" /></div>
+    <div align="center"><img src="SwamiG.gif" width="50" height="50" alt="" title="" /></div>
     <div align="center"><font size="6" color="#C037FF">Extending Royal Legacy</font></div>
     <div align="center"><h3>"...on the shoulders of enlightened ancestors..."</h3></div>
 	<br>
@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td>
-        <img src="SGI_LineageWeb/IyaOsunnike.jpg" width="160" height="190" alt="" title="" /><br><br>
+        <img src="IyaOsunnike.jpg" width="160" height="190" alt="" title="" /><br><br>
         Awise Wande Abimbola & Iya Besie Abimbola - Nigeria West Africa<br>
         Iya Omoladun Anke - Nigeria West Africa<br>
         Baba Ogunyeye Akangbe - Nigeria, West Africa<br>
@@ -56,12 +56,12 @@
         <font size="3"><b>HRM Queen Mother Osunnike Ifeyinwa Anke Eri</b></font>
       </td>
       <td>
-        <img src="SGI_LineageWeb/IOWLH_Logo.png" width="400" height="500" alt="" title="" />
+        <img src="IOWLH_Logo.png" width="400" height="500" alt="" title="" />
 		<br>
         <b><font size="5">...we seek no followers...</font></b>
       </td>
       <td>
-        <img src="SGI_LineageWeb/PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
+        <img src="PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
         Yaagbe Orisa Keye Agbede - Nigeria West Africa<br>
         Chief Araba Malomo - Nigeria West Africa<br>
         Baba Oloye Ifa Karade - US<br>
@@ -100,14 +100,14 @@
 </td>
 
 
-<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/SwamiG.gif" width="100" height="200" alt="" title="" />
+<td style="border-width : 0px;"><br /><img src="SwamiG.gif" width="100" height="200" alt="" title="" />
 </td>
 <td style="border-width : 0px;"><br /></td>
 <td style="border-width : 0px;"><br /></td>
 <td style="border-width : 0px;"><br /></td>
 <td style="border-width : 0px;"><br /></td>
 
-<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/SGI_TOL.png" width="300" height="400" alt="" title="" />
+<td style="border-width : 0px;"><br /><img src="SGI_TOL.png" width="300" height="400" alt="" title="" />
 <br>
 <div align="center">
 <font color="#00FF00">4)	Infinite Wisdom  <u>Ilekes</u> (Tehuti) </font><br>
@@ -122,7 +122,7 @@
 </div></td>
 
 
-<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
+<td style="border-width : 0px;"><br /><img src="BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
 </tr>
 <tr valign="top">
 <td style="border-width : 0px;"><br />
