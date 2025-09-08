@@ -10,7 +10,7 @@
     <title>SwamiG Institute Template</title>
 
     <div align="center"><font size="7">SwamiG Institute Lineage</font></div>
-    <div align="center"><img src="SwamiG.gif" width="50" height="50" alt="" title="" /></div>
+    <div align="center"><img src="SGI_LineageWeb/SwamiG.gif" width="50" height="50" alt="" title="" /></div>
     <div align="center"><font size="6" color="#C037FF">Extending Royal Legacy</font></div>
     <div align="center"><h3>"...on the shoulders of enlightened ancestors..."</h3></div>
 	<br>
@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td>
-        <img src="IyaOsunnike.jpg" width="127" height="190" alt="" title="" /><br><br>
+        <img src="SGI_LineageWeb/IyaOsunnike.jpg" width="160" height="190" alt="" title="" /><br><br>
         Awise Wande Abimbola & Iya Besie Abimbola - Nigeria West Africa<br>
         Iya Omoladun Anke - Nigeria West Africa<br>
         Baba Ogunyeye Akangbe - Nigeria, West Africa<br>
@@ -56,11 +56,12 @@
         <font size="3"><b>HRM Queen Mother Osunnike Ifeyinwa Anke Eri</b></font>
       </td>
       <td>
-        <img src="IOWLH_Logo.png" width="200" height="300" alt="" title="" /><br><br>
+        <img src="SGI_LineageWeb/IOWLH_Logo.png" width="400" height="500" alt="" title="" />
+		<br>
         <b><font size="5">...we seek no followers...</font></b>
       </td>
       <td>
-        <img src="PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
+        <img src="SGI_LineageWeb/PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
         Yaagbe Orisa Keye Agbede - Nigeria West Africa<br>
         Chief Araba Malomo - Nigeria West Africa<br>
         Baba Oloye Ifa Karade - US<br>
@@ -71,22 +72,83 @@
 
     <tr>
       <td></td>
-      <td><font color="#00FF00">1- Know Thyself, Ilekes (Heru)</font></td>
+      <td><font color="#FF130E">1- Know Thyself, Ilekes (Heru)</font></td>
       <td></td>
     </tr>
 
     <tr>
       <td></td>
-      <td><font color="#00FF00">2- Cleanse & Purify, Warriors (Herukhuti)</font></td>
+      <td><font color="#FF130E">2- Cleanse & Purify, Warriors (Herukhuti)</font></td>
       <td></td>
     </tr>
 
     <tr>
       <td></td>
-      <td><font color="#00FF00">3- Living in Alignment With Absolute Truth (Ausar)</font></td>
+      <td><font color="#FF130E">3- Living in Alignment With Absolute Truth (Ausar)</font></td>
       <td></td>
     </tr>
   </table>
+</div>
+
+<div style=" text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><table width="100%" border="1" cellpadding="2" cellspacing="2" style="background-color: #ffff00;">
+<tr valign="top">
+
+<td style="border-width : 0px;"><br />
+</td>
+
+<td style="border-width : 0px;"><br />
+</td>
+
+
+<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/SwamiG.gif" width="100" height="200" alt="" title="" />
+</td>
+<td style="border-width : 0px;"><br /></td>
+<td style="border-width : 0px;"><br /></td>
+<td style="border-width : 0px;"><br /></td>
+<td style="border-width : 0px;"><br /></td>
+
+<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/SGI_TOL.png" width="300" height="400" alt="" title="" />
+<br>
+<div align="center">
+<font color="#00FF00">4)	Infinite Wisdom  <u>Ilekes</u> (Tehuti) </font><br>
+<font color="#00FF00">5)	Speaking words of power  <u>Warriors</u> (Sekert) </font><br>
+<font color="#00FF00">6)	Transformational Devotion <u>Hand of Ifa</u> (Auset) </font><br>
+<br>
+<br>
+<br>
+<b><font size="6">Extending Royal Legacy</font></b>
+<br>
+<font size="3">...on the shoulders of enlightened ancestors...</font>
+</div></td>
+
+
+<td style="border-width : 0px;"><br /><img src="SGI_LineageWeb/BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
+</tr>
+<tr valign="top">
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+</tr>
+<tr valign="top">
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+<td style="border-width : 0px;"><br />
+</td>
+</tr>
+</table>
 </div>
 
   </body>
