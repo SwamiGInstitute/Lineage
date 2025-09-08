@@ -89,9 +89,9 @@
   </table>
 </div>
 <br>
-<font color="#FFFFFF"><div align="center"><font size="7">SwamiG Institute Lineage</font></div></font>
+<font color="#FFFFFF"><div align="center"><font size="7">SwamiG Institute </font></div></font>
 <br>
-<div style=" text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><table width="100%" border="1" cellpadding="2" cellspacing="2" style="background-color: #ffff00;">
+<div style=" text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><table width="100%" border="1" cellpadding="2" cellspacing="2" style="background-color: #ffffff;">
 <tr valign="top">
 
 <td style="border-width : 0px;"><br />
@@ -123,15 +123,5 @@
 </div></td>
 <td style="border-width : 0px;"><br /><img src="BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
 </tr>
-<tr valign="top">
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-</tr>
+</body>
+</html>
