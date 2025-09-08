@@ -48,7 +48,7 @@
   <table>
     <tr>
       <td>
-        <img src="SGI_LineageWeb/IyaOsunnike.jpg" width="127" height="190" alt="" title="" /><br><br>
+        <img src="IyaOsunnike.jpg" width="127" height="190" alt="" title="" /><br><br>
         Awise Wande Abimbola & Iya Besie Abimbola - Nigeria West Africa<br>
         Iya Omoladun Anke - Nigeria West Africa<br>
         Baba Ogunyeye Akangbe - Nigeria, West Africa<br>
@@ -56,11 +56,11 @@
         <font size="3"><b>HRM Queen Mother Osunnike Ifeyinwa Anke Eri</b></font>
       </td>
       <td>
-        <img src="SGI_LineageWeb/IOWLH_Logo.png" width="200" height="300" alt="" title="" /><br><br>
+        <img src="IOWLH_Logo.png" width="200" height="300" alt="" title="" /><br><br>
         <b><font size="5">...we seek no followers...</font></b>
       </td>
       <td>
-        <img src="SGI_LineageWeb/PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
+        <img src="PriestKingKoleoso.jpg" width="125" height="190" alt="" title="" /><br>
         Yaagbe Orisa Keye Agbede - Nigeria West Africa<br>
         Chief Araba Malomo - Nigeria West Africa<br>
         Baba Oloye Ifa Karade - US<br>
