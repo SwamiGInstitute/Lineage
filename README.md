@@ -21,7 +21,7 @@
     <style type="text/css">
       body {
         color:#000000;
-        background-color:#000000;
+        background-color:#49EDFF;
         background-image:url('Background Image');
         background-repeat:no-repeat;
       }
