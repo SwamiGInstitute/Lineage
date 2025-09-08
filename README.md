@@ -132,7 +132,7 @@
       </td> <td style="border:1px solid #ffffff;"></td>
       <td style="border:1px solid #ffffff;"></td>
       <td style="border:1px solid #ffffff;">
-        <img src="SGI_LineageWeb/BeardedSwamiG.gif" width="228" height="243" alt="" title="" />
+        <img src="BeardedSwamiG.gif" width="228" height="243" alt="" title="" />
       </td>
     </tr>
   </table>
