@@ -119,8 +119,6 @@
 <br>
 <font size="3">...on the shoulders of enlightened ancestors...</font>
 </div></td>
-
-
 <td style="border-width : 0px;"><br /><img src="BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
 </tr>
 <tr valign="top">
@@ -135,17 +133,3 @@
 <td style="border-width : 0px;"><br />
 </td>
 </tr>
-<tr valign="top">
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-<td style="border-width : 0px;"><br />
-</td>
-</tr>
- </body>
-</html>
