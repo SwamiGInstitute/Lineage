@@ -10,7 +10,7 @@
     <title>SwamiG Institute Template</title>
 
     <div align="center"><font size="7">SwamiG Institute Lineage</font></div>
-    <div align="center"><img src="SGI_LineageWeb/SwamiG.gif" width="50" height="50" alt="" title="" /></div>
+    <div align="center"><img src="SwamiG.gif" width="50" height="50" alt="" title="" /></div>
     <div align="center"><font size="6" color="#C037FF">Extending Royal Legacy</font></div>
     <div align="center"><h3>"...on the shoulders of enlightened ancestors..."</h3></div>
 	<br>
