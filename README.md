@@ -61,7 +61,7 @@
 </head>
 <body>
 
-  <h1>SwamiG Institute 2025</h1>
+  <h1>SwamiG Institute Lineage</h1>
   <div><img src="SwamiG.gif" width="50" height="50" alt="SwamiG Logo" /></div>
   <h2>Extending Royal Legacy</h2>
   <h3>"...on the shoulders of enlightened ancestors..."</h3>
