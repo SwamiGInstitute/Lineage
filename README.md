@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -7,7 +6,7 @@
     <meta name="dcterms.created" content="Sun, 07 Sep 2025 21:43:41 GMT">
     <meta name="description" content="SwamiG Institute 70-888-Swami Orisha Ilekes Warriors Hand of Ifa Priesthood  initiations Divinaiton 4 cowrie Shango Heru Auset Oshun Sekert Olokun Het Heru Yemojah Obarala Ausar Amen  prayer sacrifice">
     <meta name="keywords" content="Orisha,Ilekes,Warriors, Hand of Ifa, Priesthood ,initiations,Divinaiton,4 cowrie,Shango,Heru,Auset,Oshun,Sekert,Olokun,Het Heru,Yemojah,Obarala,Ausar,Amen,prayer,sacrifice">
-    <title>SwamiG Institute Template</title>
+    <title>SwamiG Institute Lineage</title>
 
     <div align="center"><font size="7">SwamiG Institute Lineage</font></div>
     <div align="center"><img src="SwamiG.gif" width="50" height="50" alt="" title="" /></div>
@@ -148,8 +147,5 @@
 <td style="border-width : 0px;"><br />
 </td>
 </tr>
-</table>
-</div>
-
-  </body>
+ </body>
 </html>
