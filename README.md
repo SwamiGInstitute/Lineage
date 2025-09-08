@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -109,7 +108,9 @@
       <td></td>
     </tr>
   </table>
-
+<br>
+<br><center><h3>SwamiG Institute</h3></center> 
+<br>
   <table style="width:100%; border-collapse: collapse; background-color:#ffffff; margin-top:2rem;">
     <tr>
       <td style="border:1px solid #ffffff;"></td>
@@ -133,8 +134,7 @@
   </table>
 
   <div align="center"><div class="footer">
-    <h1>SwamiG Institute</h1>
-	<p> Extending Royal Legacy</p>
+   	<p> Extending Royal Legacy</p>
     <p>...on the shoulders of enlightened ancestors...</p>
   </div></div>
 
