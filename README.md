@@ -88,7 +88,9 @@
     </tr>
   </table>
 </div>
-
+<br>
+<div align="center"><font size="7">SwamiG Institute Lineage</font></div>
+<br>
 <div style=" text-align: left; text-indent: 0px; padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;"><table width="100%" border="1" cellpadding="2" cellspacing="2" style="background-color: #ffff00;">
 <tr valign="top">
 
