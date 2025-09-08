@@ -109,7 +109,7 @@
     </tr>
   </table>
 <br>
-<br><center><h3>SwamiG Institute</h3></center> 
+<br><center><h5>SwamiG Institute</h5></center> 
 <br>
   <table style="width:100%; border-collapse: collapse; background-color:#ffffff; margin-top:2rem;">
     <tr>
