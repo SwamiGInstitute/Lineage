@@ -107,21 +107,18 @@
 <td style="border-width : 0px;"><br /></td>
 <td style="border-width : 0px;"><br /></td>
 <td style="border-width : 0px;"><br /></td>
-
 <td style="border-width : 0px;"><br /><img src="SGI_TOL.png" width="300" height="400" alt="" title="" />
 <br>
 <div align="center">
 <font color="#00FF00">4)	Infinite Wisdom  <u>Ilekes</u> (Tehuti) </font><br>
 <font color="#00FF00">5)	Speaking words of power  <u>Warriors</u> (Sekert) </font><br>
 <font color="#00FF00">6)	Transformational Devotion <u>Hand of Ifa</u> (Auset) </font><br>
-<br>
-<br>
-<br>
-<b><font size="6">Extending Royal Legacy</font></b>
-<br>
-<font size="3">...on the shoulders of enlightened ancestors...</font>
 </div></td>
 <td style="border-width : 0px;"><br /><img src="BeardedSwamiG.gif" width="150" height="190" alt="" title="" />
-</tr>
-</body>
-</html>
+</td>
+<br>
+<br>
+<br>
+<b><font size="5">Extending Royal Legacy</font></b>
+<br>
+<font size="3">...on the shoulders of enlightened ancestors...</font>
